@@ -2,7 +2,7 @@
 name: "\U0001F47E Bug Report"
 about: Report a reproducible bug or regression.
 title: 'Bug: '
-labels: ''
+labels: bug
 assignees: ''
 
 ---
